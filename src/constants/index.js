@@ -1,6 +1,6 @@
 import {
-  emergency,
   chat,
+  emergency,
   facebook,
   instagram,
   linkedin,
@@ -121,7 +121,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "My dog is a runner. Using found me has been a lifesaver for us. We particularly love the fact that you could update our contact information with a few clicks. I know there are many other features but we haven't had a chance to try them out.",
+      "My dog is a runner. Using SafeConnect has been a lifesaver for us. We particularly love the fact that you could update our contact information with a few clicks. I know there are many other features but we haven't had a chance to try them out.",
     name: "Oliver A.",
     title: "Customer",
     img: people01,
